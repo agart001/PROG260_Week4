@@ -1,4 +1,5 @@
 ﻿using static PROG260_Week4.Utility.U_IO;
+using static PROG260_Week4.Utility.U_Console;
 
 namespace PROG260_Week4
 {
@@ -20,6 +21,8 @@ namespace PROG260_Week4
             files.ForEach(file => ClearOutputFile(file));
 
             files.ForEach(file => OutputToFile(file));
+
+            Print("All done!");
         }
     }
 }

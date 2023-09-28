@@ -50,9 +50,9 @@ namespace PROG260_Week4.Utility
         public static void ClearOutputFile(IFile file)
         {
             string output = $"{file.Dir}\\{file.Name}_.out.txt";
-            if(!File.Exists(output)) return;
+            if(File.Exists(output) == false) return;
 
-            File.Delete($"{file.Dir}\\{file.Name}_.out.txt");
+            File.WriteAllText($"{file.Dir}\\{file.Name}_.out.txt", string.Empty);
         }
 
         public static void OutputToFile(IFile file)
@@ -73,7 +73,7 @@ namespace PROG260_Week4.Utility
                     int fieldCount = 1;
                     foreach (var field in fields)
                     {
-                        if(fieldCount != fields.Length) output += " ==> ";
+                        if(fieldCount != 1) output += " ==> ";
                         output += $"Field #{fieldCount}={field}";
                         fieldCount++;
                     }

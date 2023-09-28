@@ -24,7 +24,7 @@ namespace PROG260_Week4
             AbsPath = absPath;
             Dir = AbsPath.Substring(0, AbsPath.LastIndexOf('\\'));
 
-            Name = name;
+            Name = name.Substring(0, name.LastIndexOf('.'));
             Extension = extension;
             Delimiter = DelimiterDict[Extension];
 
