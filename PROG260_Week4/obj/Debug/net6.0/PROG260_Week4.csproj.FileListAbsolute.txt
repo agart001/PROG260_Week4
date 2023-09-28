@@ -1,0 +1,15 @@
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\bin\Debug\net6.0\PROG260_Week4.exe
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\bin\Debug\net6.0\PROG260_Week4.deps.json
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\bin\Debug\net6.0\PROG260_Week4.runtimeconfig.json
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\bin\Debug\net6.0\PROG260_Week4.dll
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\bin\Debug\net6.0\PROG260_Week4.pdb
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.csproj.AssemblyReference.cache
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.AssemblyInfoInputs.cache
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.AssemblyInfo.cs
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.csproj.CoreCompileInputs.cache
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.dll
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\refint\PROG260_Week4.dll
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.pdb
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\PROG260_Week4.genruntimeconfig.cache
+C:\Users\agart\Documents\GitHub\PROG260\PROG260_Week4\PROG260_Week4\obj\Debug\net6.0\ref\PROG260_Week4.dll
