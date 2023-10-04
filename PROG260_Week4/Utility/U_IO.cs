@@ -50,9 +50,10 @@ namespace PROG260_Week4.Utility
         public static void ClearOutputFile(IFile file)
         {
             string output = $"{file.Dir}\\{file.Name}_.out.txt";
-            if(File.Exists(output) == false) return;
 
-            File.WriteAllText($"{file.Dir}\\{file.Name}_.out.txt", string.Empty);
+            if(File.Exists(output) == false) return;
+            
+            File.Delete(output);
         }
 
         public static void OutputToFile(IFile file)
